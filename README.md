@@ -1,0 +1,2 @@
+# sealed
+Documentation for SealScript
